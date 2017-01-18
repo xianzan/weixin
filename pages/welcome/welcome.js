@@ -14,18 +14,18 @@ Page({
     //   }
     // })
 
-    wx.redirectTo({
-      url: '../posts/post',
-      success: function(res){
-        // success
-      },
-      fail: function() {
-        // fail
-      },
-      complete: function() {
-        // complete
-      }
-    })
+    // wx.redirectTo({
+    //   url: '../posts/post',
+    //   success: function(res){
+    //     // success
+    //   },
+    //   fail: function() {
+    //     // fail
+    //   },
+    //   complete: function() {
+    //     // complete
+    //   }
+    // })
   },
   data:{},
   onLoad:function(options){
