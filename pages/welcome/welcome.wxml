@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="myphoto" src="/images/avatar/5.png"></image>
+    <text class="motto">Hello Zan</text>
+    <view class="button" bindtap="onTap">
+        <text class="button-text">第一个小程序</text>
+    </view>
+</view>
